@@ -7,3 +7,10 @@ Expectations
  - Create aesthetic html websites
  - Learn web programming 
  - Have fun in class
+
+Ryan Christian S. Galaban
+ - AGREE! The amount of projects needed to be worked on is very much a multiperson job and collboration is very much the intergral part of how the IT industry works.
+ - AGREE! I do agree with that, especially in the case of JAVA, I have not seen a proper implementation of collaboration tools for JAVA.
+ - AGREE! CSS is the way.
+ - AGREE! That's why we are studying this.
+ - AGREE! A hidden yet very important aspect of learning.
